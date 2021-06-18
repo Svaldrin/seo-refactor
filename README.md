@@ -1,12 +1,9 @@
-SEO Refactoring
+# SEO Refactoring
 
-Project notes
-Client provided html and assets. 
+## Description
+A website that offers digital marketing services.  
 
-Set up
-Files were cloned from a git repository. 
-
-Front-end Compiling
+ ## Changes made
     1. Replaced title
     2. Added comments explaining the section
     3. Changed div elements to section elements where needed
@@ -14,12 +11,12 @@ Front-end Compiling
     5. Added alt to images
     6. Added header element 
 
-Files and directories
+## Files and directories
     1. index.html
     2. Assets
         a. css
         b. images    
-Credits 
+
+## Credits 
 Horiseon Social Solution Services, Inc.
-block81.com
 Trilogy Education Services
